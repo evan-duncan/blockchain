@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "0.1.0",
+  "description": "A naive blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-duncan/blockchain.git"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Evan Duncan <evan.e.duncan@gmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/evan-duncan/blockchain/issues"
+  },
+  "homepage": "https://github.com/evan-duncan/blockchain#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
